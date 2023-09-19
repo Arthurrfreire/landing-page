@@ -1,4 +1,4 @@
-.macbook-pro {
+.provisao-ld {
     background-color: #ffffff;
     display: flex;
     flex-direction: row;
@@ -6,14 +6,14 @@
     width: 100%;
 }
 
-.macbook-pro .overlap-group-wrapper {
+.provisao-ld .overlap-group-wrapper {
     background-color: #ffffff;
     overflow: hidden;
     width: 1728px;
     height: 4476px;
 }
 
-.macbook-pro .overlap-group {
+.provisao-ld .overlap-group {
     position: relative;
     width: 2331px;
     height: 4621px;
@@ -21,7 +21,7 @@
     left: -290px;
 }
 
-.macbook-pro .rectangle {
+.provisao-ld .rectangle {
     position: absolute;
     width: 1774px;
     height: 4621px;
@@ -31,7 +31,7 @@
     border-radius: 113px;
 }
 
-.macbook-pro .image {
+.provisao-ld.image {
     width: 1728px;
     height: 1501px;
     top: 2019px;
@@ -40,7 +40,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .div {
+.provisao-ld .div {
     position: absolute;
     width: 2330px;
     height: 1049px;
@@ -50,7 +50,7 @@
     border-radius: 101px;
 }
 
-.macbook-pro .rectangle-2 {
+.provisao-ld .rectangle-2 {
     position: absolute;
     width: 2330px;
     height: 302px;
@@ -60,7 +60,7 @@
     border-radius: 101px;
 }
 
-.macbook-pro .rectangle-3 {
+.provisao-ld .rectangle-3 {
     position: absolute;
     width: 1728px;
     height: 1192px;
@@ -70,7 +70,7 @@
     border-radius: 152px;
 }
 
-.macbook-pro .text-wrapper {
+.provisao-ld .text-wrapper {
     position: absolute;
     width: 668px;
     top: 3534px;
@@ -84,7 +84,7 @@
     white-space: nowrap;
 }
 
-.macbook-pro .rectangle-4 {
+.provisao-ld .rectangle-4 {
     position: absolute;
     width: 951px;
     height: 135px;
@@ -94,7 +94,7 @@
     border-radius: 21px;
 }
 
-.macbook-pro .code {
+.provisao-ld .code {
     position: absolute;
     width: 1002px;
     height: 1990px;
@@ -103,7 +103,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .text-wrapper-2 {
+.provisao-ld .text-wrapper-2 {
     position: absolute;
     width: 836px;
     top: 2485px;
@@ -116,7 +116,7 @@
     line-height: normal;
 }
 
-.macbook-pro .img {
+.provisao-ld .img {
     position: absolute;
     width: 531px;
     height: 496px;
@@ -125,7 +125,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .rectangle-5 {
+.provisao-ld .rectangle-5 {
     position: absolute;
     width: 531px;
     height: 496px;
@@ -134,7 +134,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .rectangle-6 {
+.provisao-ld .rectangle-6 {
     position: absolute;
     width: 219px;
     height: 83px;
@@ -144,7 +144,7 @@
     border-radius: 101px;
 }
 
-.macbook-pro .rectangle-7 {
+.provisao-ld .rectangle-7 {
     position: absolute;
     width: 219px;
     height: 83px;
@@ -154,7 +154,7 @@
     border-radius: 101px;
 }
 
-.macbook-pro .melhor-pre-o-e {
+.provisao-ld .melhor-pre-o-e {
     position: absolute;
     width: 574px;
     top: 522px;
@@ -167,20 +167,20 @@
     line-height: 90px;
 }
 
-.macbook-pro .span {
+.provisao-ld .span {
     font-weight: 700;
     color: #32466d;
     line-height: 94.1px;
 }
 
-.macbook-pro .text-wrapper-3 {
+.provisao-ld .text-wrapper-3 {
     font-family: "Inter-Black", Helvetica;
     font-weight: 900;
     color: #f5bd31;
     line-height: 94.1px;
 }
 
-.macbook-pro .text-wrapper-4 {
+.provisao-ld .text-wrapper-4 {
     font-family: "Inter-Black", Helvetica;
     font-weight: 900;
     color: #f5bd31;
@@ -188,7 +188,7 @@
     line-height: 104.5px;
 }
 
-.macbook-pro .contatos {
+.provisao-ld .contatos {
     position: absolute;
     width: 1267px;
     top: 4338px;
@@ -201,7 +201,7 @@
     line-height: normal;
 }
 
-.macbook-pro .rectangle-8 {
+.provisao-ld .rectangle-8 {
     position: absolute;
     width: 842px;
     height: 1121px;
@@ -210,7 +210,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .image-2 {
+.provisao-ld .image-2 {
     width: 398px;
     height: 364px;
     top: 98px;
@@ -219,7 +219,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .text-wrapper-5 {
+.provisao-ld .text-wrapper-5 {
     position: absolute;
     width: 474px;
     top: 1316px;
@@ -232,7 +232,7 @@
     line-height: normal;
 }
 
-.macbook-pro .text-wrapper-6 {
+.provisao-ld .text-wrapper-6 {
     width: 148px;
     top: 2034px;
     left: 754px;
@@ -246,7 +246,7 @@
     white-space: nowrap;
 }
 
-.macbook-pro .text-wrapper-7 {
+.provisao-ld .text-wrapper-7 {
     width: 151px;
     top: 2030px;
     left: 1392px;
@@ -260,7 +260,7 @@
     white-space: nowrap;
 }
 
-.macbook-pro .provis-o {
+.provisao-ld .provis-o {
     position: absolute;
     width: 1116px;
     top: 3722px;
@@ -274,7 +274,7 @@
     line-height: normal;
 }
 
-.macbook-pro .captura-de-tela {
+.provisao-ld .captura-de-tela {
     position: absolute;
     width: 717px;
     height: 684px;
@@ -283,7 +283,7 @@
     object-fit: cover;
 }
 
-.macbook-pro .captura-de-tela-2 {
+.provisao-ld .captura-de-tela-2 {
     position: absolute;
     width: 678px;
     height: 668px;
